@@ -1,0 +1,6 @@
+Bought at time: 1535907983	PNL at this time is: -115950
+Sold at time: 1535908124	PNL at this time is: 30.005
+Bought at time: 1535908127	PNL at this time is: -115922
+Sold at time: 1535908127	PNL at this time is: 58.0072
+Bought at time: 1535908158	PNL at this time is: -115933
+Sold at time: 1535908684	PNL at this time is: 26.0115

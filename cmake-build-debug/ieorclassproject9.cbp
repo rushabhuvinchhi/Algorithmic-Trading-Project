@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ieorclassproject9"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\ProjectTests\;CMake Files\ProjectTests\lib\;CMake Files\ProjectTests\lib\googletest\;CMake Files\ProjectTests\lib\googletest\cmake\;CMake Files\ProjectTests\tests\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ieorclassproject9">
+				<Option output="/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/ieorclassproject9" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/Makefile&quot;  VERBOSE=1 ieorclassproject9"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ieorclassproject9/fast">
+				<Option output="/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/ieorclassproject9" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/Makefile&quot;  VERBOSE=1 ieorclassproject9/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest">
+				<Option output="/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/lib/libgtestd.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/ProjectTests/lib/googletest"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/vinchhi/Documents/untitled/ieorclassproject9/ProjectTests/lib/googletest/include"/>
+					<Add directory="/home/vinchhi/Documents/untitled/ieorclassproject9/ProjectTests/lib/googletest"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/ProjectTests/lib/googletest/Makefile&quot;  VERBOSE=1 gtest"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/ProjectTests/lib/googletest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/ProjectTests/lib/googletest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/ProjectTests/lib/googletest/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest/fast">
+				<Option output="/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/lib/libgtestd.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/ProjectTests/lib/googletest"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/vinchhi/Documents/untitled/ieorclassproject9/ProjectTests/lib/googletest/include"/>
+					<Add directory="/home/vinchhi/Documents/untitled/ieorclassproject9/ProjectTests/lib/googletest"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/ProjectTests/lib/googletest/Makefile&quot;  VERBOSE=1 gtest/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/ProjectTests/lib/googletest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/ProjectTests/lib/googletest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/ProjectTests/lib/googletest/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest_main">
+				<Option output="/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/lib/libgtest_maind.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/ProjectTests/lib/googletest"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/vinchhi/Documents/untitled/ieorclassproject9/ProjectTests/lib/googletest/include"/>
+					<Add directory="/home/vinchhi/Documents/untitled/ieorclassproject9/ProjectTests/lib/googletest"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/ProjectTests/lib/googletest/Makefile&quot;  VERBOSE=1 gtest_main"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/ProjectTests/lib/googletest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/ProjectTests/lib/googletest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/ProjectTests/lib/googletest/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest_main/fast">
+				<Option output="/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/lib/libgtest_maind.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/ProjectTests/lib/googletest"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/vinchhi/Documents/untitled/ieorclassproject9/ProjectTests/lib/googletest/include"/>
+					<Add directory="/home/vinchhi/Documents/untitled/ieorclassproject9/ProjectTests/lib/googletest"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/ProjectTests/lib/googletest/Makefile&quot;  VERBOSE=1 gtest_main/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/ProjectTests/lib/googletest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/ProjectTests/lib/googletest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/ProjectTests/lib/googletest/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="RunTests">
+				<Option output="/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/ProjectTests/tests/RunTests" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/ProjectTests/tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/vinchhi/Documents/untitled/ieorclassproject9/ProjectTests/tests/$gtest_SOURCE_DIR"/>
+					<Add directory="/home/vinchhi/Documents/untitled/ieorclassproject9/ProjectTests/lib/googletest/include"/>
+					<Add directory="/home/vinchhi/Documents/untitled/ieorclassproject9/ProjectTests/lib/googletest"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/ProjectTests/tests/Makefile&quot;  VERBOSE=1 RunTests"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/ProjectTests/tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/ProjectTests/tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/ProjectTests/tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="RunTests/fast">
+				<Option output="/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/ProjectTests/tests/RunTests" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/ProjectTests/tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/vinchhi/Documents/untitled/ieorclassproject9/ProjectTests/tests/$gtest_SOURCE_DIR"/>
+					<Add directory="/home/vinchhi/Documents/untitled/ieorclassproject9/ProjectTests/lib/googletest/include"/>
+					<Add directory="/home/vinchhi/Documents/untitled/ieorclassproject9/ProjectTests/lib/googletest"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/ProjectTests/tests/Makefile&quot;  VERBOSE=1 RunTests/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/ProjectTests/tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/ProjectTests/tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/ProjectTests/tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/vinchhi/Documents/untitled/ieorclassproject9/AppBase.cpp">
+			<Option target="ieorclassproject9"/>
+		</Unit>
+		<Unit filename="/home/vinchhi/Documents/untitled/ieorclassproject9/AppBase.h">
+			<Option target="ieorclassproject9"/>
+		</Unit>
+		<Unit filename="/home/vinchhi/Documents/untitled/ieorclassproject9/BookUpdate.cpp">
+			<Option target="ieorclassproject9"/>
+		</Unit>
+		<Unit filename="/home/vinchhi/Documents/untitled/ieorclassproject9/BookUpdate.h">
+			<Option target="ieorclassproject9"/>
+		</Unit>
+		<Unit filename="/home/vinchhi/Documents/untitled/ieorclassproject9/MDReader.cpp">
+			<Option target="ieorclassproject9"/>
+		</Unit>
+		<Unit filename="/home/vinchhi/Documents/untitled/ieorclassproject9/MDReader.h">
+			<Option target="ieorclassproject9"/>
+		</Unit>
+		<Unit filename="/home/vinchhi/Documents/untitled/ieorclassproject9/MarketSimulator.cpp">
+			<Option target="ieorclassproject9"/>
+		</Unit>
+		<Unit filename="/home/vinchhi/Documents/untitled/ieorclassproject9/MarketSimulator.h">
+			<Option target="ieorclassproject9"/>
+		</Unit>
+		<Unit filename="/home/vinchhi/Documents/untitled/ieorclassproject9/MyOrderBook.cpp">
+			<Option target="ieorclassproject9"/>
+		</Unit>
+		<Unit filename="/home/vinchhi/Documents/untitled/ieorclassproject9/MyOrderBook.h">
+			<Option target="ieorclassproject9"/>
+		</Unit>
+		<Unit filename="/home/vinchhi/Documents/untitled/ieorclassproject9/Order.cpp">
+			<Option target="ieorclassproject9"/>
+		</Unit>
+		<Unit filename="/home/vinchhi/Documents/untitled/ieorclassproject9/Order.h">
+			<Option target="ieorclassproject9"/>
+		</Unit>
+		<Unit filename="/home/vinchhi/Documents/untitled/ieorclassproject9/OrderManager.cpp">
+			<Option target="ieorclassproject9"/>
+		</Unit>
+		<Unit filename="/home/vinchhi/Documents/untitled/ieorclassproject9/OrderManager.h">
+			<Option target="ieorclassproject9"/>
+		</Unit>
+		<Unit filename="/home/vinchhi/Documents/untitled/ieorclassproject9/PriceUpdate.cpp">
+			<Option target="ieorclassproject9"/>
+		</Unit>
+		<Unit filename="/home/vinchhi/Documents/untitled/ieorclassproject9/PriceUpdate.h">
+			<Option target="ieorclassproject9"/>
+		</Unit>
+		<Unit filename="/home/vinchhi/Documents/untitled/ieorclassproject9/ProjectTests/lib/googletest/src/gtest-all.cc">
+			<Option target="gtest"/>
+		</Unit>
+		<Unit filename="/home/vinchhi/Documents/untitled/ieorclassproject9/ProjectTests/lib/googletest/src/gtest_main.cc">
+			<Option target="gtest_main"/>
+		</Unit>
+		<Unit filename="/home/vinchhi/Documents/untitled/ieorclassproject9/ProjectTests/tests/AppBaseTest.cpp">
+			<Option target="RunTests"/>
+		</Unit>
+		<Unit filename="/home/vinchhi/Documents/untitled/ieorclassproject9/ProjectTests/tests/BookUpdateTests.cpp">
+			<Option target="RunTests"/>
+		</Unit>
+		<Unit filename="/home/vinchhi/Documents/untitled/ieorclassproject9/ProjectTests/tests/MDReadertests.cpp">
+			<Option target="RunTests"/>
+		</Unit>
+		<Unit filename="/home/vinchhi/Documents/untitled/ieorclassproject9/ProjectTests/tests/MarketSimulatorTest.cpp">
+			<Option target="RunTests"/>
+		</Unit>
+		<Unit filename="/home/vinchhi/Documents/untitled/ieorclassproject9/ProjectTests/tests/MyOrderBookTests.cpp">
+			<Option target="RunTests"/>
+		</Unit>
+		<Unit filename="/home/vinchhi/Documents/untitled/ieorclassproject9/ProjectTests/tests/OrderManagerTests.cpp">
+			<Option target="RunTests"/>
+		</Unit>
+		<Unit filename="/home/vinchhi/Documents/untitled/ieorclassproject9/ProjectTests/tests/OrderTest.cpp">
+			<Option target="RunTests"/>
+		</Unit>
+		<Unit filename="/home/vinchhi/Documents/untitled/ieorclassproject9/ProjectTests/tests/PriceUpdateTest.cpp">
+			<Option target="RunTests"/>
+		</Unit>
+		<Unit filename="/home/vinchhi/Documents/untitled/ieorclassproject9/ProjectTests/tests/TradingSignalsTests.cpp">
+			<Option target="RunTests"/>
+		</Unit>
+		<Unit filename="/home/vinchhi/Documents/untitled/ieorclassproject9/TradingStrategy.cpp">
+			<Option target="ieorclassproject9"/>
+		</Unit>
+		<Unit filename="/home/vinchhi/Documents/untitled/ieorclassproject9/TradingStrategy.h">
+			<Option target="ieorclassproject9"/>
+		</Unit>
+		<Unit filename="/home/vinchhi/Documents/untitled/ieorclassproject9/main.cpp">
+			<Option target="ieorclassproject9"/>
+		</Unit>
+		<Unit filename="/home/vinchhi/Documents/untitled/ieorclassproject9/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/vinchhi/Documents/untitled/ieorclassproject9/ProjectTests/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\ProjectTests\"/>
+		</Unit>
+		<Unit filename="/home/vinchhi/Documents/untitled/ieorclassproject9/ProjectTests/lib/googletest/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\ProjectTests\lib\googletest\"/>
+		</Unit>
+		<Unit filename="/home/vinchhi/Documents/untitled/ieorclassproject9/ProjectTests/lib/googletest/cmake/internal_utils.cmake">
+			<Option virtualFolder="CMake Files\ProjectTests\lib\googletest\cmake\"/>
+		</Unit>
+		<Unit filename="/home/vinchhi/Documents/untitled/ieorclassproject9/ProjectTests/tests/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\ProjectTests\tests\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="MDReader"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\MDParser\;CMake Files\ProjectTests\;CMake Files\ProjectTests\lib\;CMake Files\ProjectTests\lib\googletest\;CMake Files\ProjectTests\lib\googletest\cmake\;CMake Files\ProjectTests\tests\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/MDParser"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/MDParser/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/MDParser/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/MDParser/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/MDParser/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MDReader">
+				<Option output="/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/MDParser/libMDReader.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/MDParser"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/vinchhi/Documents/untitled/ieorclassproject9/MDParser"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/MDParser/Makefile&quot;  VERBOSE=1 MDReader"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/MDParser/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/MDParser/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/MDParser/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MDReader/fast">
+				<Option output="/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/MDParser/libMDReader.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/MDParser"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/vinchhi/Documents/untitled/ieorclassproject9/MDParser"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/MDParser/Makefile&quot;  VERBOSE=1 MDReader/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/MDParser/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/MDParser/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug/MDParser/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/vinchhi/Documents/untitled/ieorclassproject9/MDParser/MDReader.cpp">
+			<Option target="MDReader"/>
+		</Unit>
+		<Unit filename="/home/vinchhi/Documents/untitled/ieorclassproject9/MDParser/MDReader.h">
+			<Option target="MDReader"/>
+		</Unit>
+		<Unit filename="/home/vinchhi/Documents/untitled/ieorclassproject9/ProjectTests/tests/MDReadertests.cpp">
+			<Option target="MDReader"/>
+		</Unit>
+		<Unit filename="/home/vinchhi/Documents/untitled/ieorclassproject9/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/vinchhi/Documents/untitled/ieorclassproject9/MDParser/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\MDParser\"/>
+		</Unit>
+		<Unit filename="/home/vinchhi/Documents/untitled/ieorclassproject9/ProjectTests/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\ProjectTests\"/>
+		</Unit>
+		<Unit filename="/home/vinchhi/Documents/untitled/ieorclassproject9/ProjectTests/lib/googletest/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\ProjectTests\lib\googletest\"/>
+		</Unit>
+		<Unit filename="/home/vinchhi/Documents/untitled/ieorclassproject9/ProjectTests/lib/googletest/cmake/internal_utils.cmake">
+			<Option virtualFolder="CMake Files\ProjectTests\lib\googletest\cmake\"/>
+		</Unit>
+		<Unit filename="/home/vinchhi/Documents/untitled/ieorclassproject9/ProjectTests/tests/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\ProjectTests\tests\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,9 @@
+/home/vinchhi/Downloads/clion-2019.2.5/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/vinchhi/Documents/untitled/ieorclassproject9
+CMake Warning at ProjectTests/lib/googletest/CMakeLists.txt:47 (project):
+  VERSION keyword not followed by a value or was followed by a value that
+  expanded to nothing.
+
+
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/vinchhi/Documents/untitled/ieorclassproject9/cmake-build-debug
